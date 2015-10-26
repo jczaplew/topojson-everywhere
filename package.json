@@ -1,0 +1,21 @@
+{
+  "name": "topojson-everywhere",
+  "version": "0.0.1",
+  "description": "Example of packaging all of topojson",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "topojson": "^1.6.19"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^1.4.2",
+    "browserify": "^11.2.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John J Czaplewski <jczaplew@gmail.com>",
+  "license": "CC0"
+}
